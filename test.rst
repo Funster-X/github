@@ -5,19 +5,30 @@
 
 .. image:: 1.png
 
-点击“File”，可以进行GitHub的基本操作，如创建仓库、添加本地仓库、克隆仓库等。
+点击“File”，可以进行GitHub的基本操作，如创建新的repository、添加本地repository、克隆repository等。
 
-**Create a new Repository**
+**Create a new repository**
 ---------------------------------
+
 
 1. 点击“File”-“New repository”
 #. 命名存储库为：GitHub_Test。
-#. 写一个简短的描述：Just for testing。
-#. 选择存储路径：C:\Users\Administrator\Desktop\github。
+#. 写一个简短的描述：如Just for testing。
+#. 选择存储路径：如C:\Users\Administrator\Desktop\github。
 #. 用README.md (自述文件)初始化这个存储库。
-#. 点击“Create a new Repository”
+#. 点击“Create repository”.
 
 .. image:: 2.png
+
+**Add local repository**
+---------------------------------
+该操作是将本地已有的repository文件添加到GitHub客户端。
+
+1. 点击“File”-“Add local repository”。
+#. 点击“Choose”选择本地已有的repository文件。
+#. 点击“Add repository”。
+
+.. image:: 3.png
 
 
 
