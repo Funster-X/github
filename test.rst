@@ -16,7 +16,7 @@
 #. 写一个简短的描述：如Just for testing。
 #. 选择存储路径：如C:\Users\Administrator\Desktop\github。
 #. 用README.md (自述文件)初始化这个存储库。
-#. 点击“Create repository”.
+#. 点击“Create repository”。
 
 .. image:: 2.png
 
